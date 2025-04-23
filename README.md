@@ -1,10 +1,10 @@
 This is my Password Generator project for Scrimba Front-end course
 
-Summary
+【Summary】
 I created a Password Generator app using JS. 
 I created an expanded version by adding a password copy option and a password length selection option.
 
-Languages / Techstack
+【Languages / Techstack】
 HTML
 CSS
 Javascript
